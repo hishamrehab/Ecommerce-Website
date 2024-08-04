@@ -351,3 +351,8 @@ label {
 .nsTitle {
   font-size: 40px;
 }
+.nsButton {
+  padding: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
